@@ -24,7 +24,7 @@ Clone this repository
 Create a virtualenv
 
 ```
-virtualenv -p python3 -r venv3
+virtualenv -p python3 venv3
 ```
 Source the virtualenv
 
