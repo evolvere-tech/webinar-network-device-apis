@@ -4,15 +4,20 @@ Most modern devices/software versions support HTTP based APIs. Using these APIs 
 
 ## Scripts
 
-* arista-ssh 
- * Example uses netmiko module to connect via SSH.
- * CLI response is unstructured text data.
- * Python string handling used to parse data.
-* arista-api.py
- * Uses requests module.
- * Structured data returned (JSON).
-* nexus-api
- * Uses requests module to connect to Nexus 9k.
+###arista-ssh.py
+ 
+* Example uses netmiko module to connect via SSH.
+* CLI response is unstructured text data.
+* Python string handling used to parse data.
+
+###arista-api.py
+
+* Uses requests module.
+* Structured data returned (JSON).
+
+###nexus-api.py
+
+* Uses requests module to connect to Nexus 9k.
 
 ## Running scripts
 Clone this repository
