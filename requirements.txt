@@ -12,7 +12,7 @@ ipython==7.11.1
 ipython-genutils==0.2.0
 jedi==0.15.2
 netmiko==3.0.0
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.5.2
 pexpect==4.7.0
 pickleshare==0.7.5
